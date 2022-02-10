@@ -1,0 +1,4 @@
+name: LaunchPad
+version: '0'
+main: me.launchpad.launchpad.LaunchPad
+api-version: 1.18

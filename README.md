@@ -1,0 +1,2 @@
+# LaunchPadPlugin
+Hi!
